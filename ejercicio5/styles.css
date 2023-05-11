@@ -1,0 +1,10 @@
+/* Sobrescribe el estilo por defecto y establece el padding y el margen a cero */
+
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0
+  }
+.showcase{
+    height: 300px;
+}
